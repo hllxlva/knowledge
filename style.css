@@ -2,12 +2,6 @@ body{
 	background-color: #FBD389;
 	color: #000;
 }
-.moon{
-	width: 489px;
-	height: 368px;
-	display: block;
-	margin: 0 auto;
-}
 #heading {
     text-align:center;
 	margin-left:auto;
@@ -25,12 +19,6 @@ body{
 	margin-left:auto;
 	margin-right:auto;
 	text-align:left;
-}
-#Sentence{
-	width: 700px;
-	margin-left:auto;
-	margin-right:auto;
-	text-align: left;
 }
 h4{
 	color: #FFFFFF;
