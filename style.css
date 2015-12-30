@@ -29,3 +29,12 @@ body{
 h4{
 	color: #FFFFFF;
 }
+dl {
+  width:300px;
+}
+dt {
+  float:left;
+}
+dd {
+  margin-left:80px;
+}
