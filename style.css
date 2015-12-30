@@ -14,7 +14,9 @@ body{
 	margin-right:auto;
 }
 #profile{
-	width: 350px;
-    float: left;
+	width: 700px;
     background: #FFFFFF;
+    text-align:center;
+	margin-left:auto;
+	margin-right:auto;
 }
