@@ -20,6 +20,10 @@ body{
 	margin-right:auto;
 	text-align:left;
 }
+h1{
+	font-size:21.68px;
+	height:22px;
+}
 h4{
 	color: #FFFFFF;
 }
@@ -30,5 +34,5 @@ dt {
   float:left;
 }
 dd {
-  margin-left:10px;
+  margin-left:50px;
 }
