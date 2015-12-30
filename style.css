@@ -8,3 +8,8 @@ body{
 	display: block;
 	margin: 0 auto;
 }
+#heading {
+    width: 350px;
+    float: left;
+    background: #FFFFFF;
+}
