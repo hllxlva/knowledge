@@ -16,7 +16,7 @@ body{
 #profile{
 	width: 800px;
     background: #FFFFFF;
-    text-align:center;
+    text-align:left;
 	margin-left:auto;
 	margin-right:auto;
 }
@@ -24,7 +24,7 @@ body{
 	width: 700px;
 	margin-left:auto;
 	margin-right:auto;
-	text-align:center;
+	text-align:left;
 }
 #Sentence{
 	width: 700px;
@@ -39,7 +39,7 @@ dl {
   width:700px;
 }
 dt {
-  float:center;
+  float:left;
 }
 dd {
   margin-left:80px;
